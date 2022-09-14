@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-website/static/css/main.368663bb.css",
-    "main.js": "/personal-website/static/js/main.b445e434.js",
+    "main.js": "/personal-website/static/js/main.074563b1.js",
     "static/js/787.5809834d.chunk.js": "/personal-website/static/js/787.5809834d.chunk.js",
     "static/media/dihan-profile (1).png": "/personal-website/static/media/dihan-profile (1).3e6c58dcd0fd18040ae4.png",
     "static/media/yarl-it-hub-logo.png": "/personal-website/static/media/yarl-it-hub-logo.81db16c32e7a05320377.png",
@@ -10,11 +10,11 @@
     "index.html": "/personal-website/index.html",
     "static/media/facebook-logo.svg": "/personal-website/static/media/facebook-logo.2dd5bdd216194f5edc8cf589f0378383.svg",
     "main.368663bb.css.map": "/personal-website/static/css/main.368663bb.css.map",
-    "main.b445e434.js.map": "/personal-website/static/js/main.b445e434.js.map",
+    "main.074563b1.js.map": "/personal-website/static/js/main.074563b1.js.map",
     "787.5809834d.chunk.js.map": "/personal-website/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.368663bb.css",
-    "static/js/main.b445e434.js"
+    "static/js/main.074563b1.js"
   ]
 }
